@@ -1,5 +1,5 @@
 <p align="left"> 
-  :purple_heart: Welcome, welcome! <img src="https://komarev.com/ghpvc/?username=erikrodrgz&color=6C63FF&style=flat-square&label=Views" align="right" alt="Views"><br>
+  :purple_heart: Welcome, welcome! <img src="https://komarev.com/ghpvc/?username=rodrgz&color=6C63FF&style=flat-square&label=Views" align="right" alt="Views"><br>
 
 #### Languages
 
@@ -17,5 +17,5 @@
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-![stats](https://github-readme-stats.vercel.app/api?username=erikrodrgz&theme=material-palenight)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikrodrgz&exclude_repo=dotfiles&langs_count=8&layout=compact&theme=material-palenight)
+![stats](https://github-readme-stats.vercel.app/api?username=rodrgz&theme=material-palenight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrgz&exclude_repo=dotfiles&langs_count=8&layout=compact&theme=material-palenight)
