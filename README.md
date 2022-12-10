@@ -18,4 +18,3 @@
  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=rodrgz&theme=material-palenight)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrgz&exclude_repo=dotfiles&langs_count=8&layout=compact&theme=material-palenight)
