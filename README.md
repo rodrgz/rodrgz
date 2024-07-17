@@ -1,12 +1,13 @@
-<p align="left"> 
-  :purple_heart: Welcome, welcome! <img src="https://komarev.com/ghpvc/?username=rodrgz&color=6C63FF&style=flat-square&label=Views" align="right" alt="Views"><br>
+I am a software developer at Banco do Brasil, where I architect microservices for high availability and performance environments, utilizing technologies such as Java, Quarkus, Kubernetes, AppDynamics, Grafana, and Prometheus on a daily basis.
 
-#### Skills:
-- Mechanical Engineering: I have extensive experience in mechanical projects, from conception to implementation, with a focus on optimization and thermal, electrical, and structural analysis.
-- Programming: I utilize various programming languages on a daily basis.
-- Finite element: My master's research involves the development, programming and application of Finite Element Methods (which bears resemblance to some methods used in Data Science) to solve engineering problems. Additionally, I have experience with simulation software such as Abaqus and ANSYS.
-- Linux: As an enthusiastic Linux user, I possess knowledge in managing Linux systems in a reproducible manner, using Nix. This allows me to guarantee the same configuration across different machines, providing consistency and ease of deployment.
-- Data Science: In addition to engineering, I am also an enthusiast of data science, exploring how to apply data analysis techniques to improve engineering processes.
+I have a Master's degree in Mechanical Engineering from UFRGS, specializing in computational mechanics. Throughout my academic and professional journey, I've had numerous opportunities to enhance both my technical and management skills. This includes involvement in research projects, participation in a junior enterprise, product engineering and continuous improvement internships at John Deere, and providing consultancy in numerical simulation through finite element analysis (FEA) and computational fluid dynamics (CFD).
+
+I have knowledge and interest in:
+
+- Programming: I use various programming languages in my daily work, including Java, Shell Script, Nix, and Fortran.
+- DevOps: I have experience with DevOps practices and tools.
+- Mechanical Engineering: I have extensive experience in mechanical projects, from conception to execution, with a focus on optimization and thermal, electrical, and structural analysis. I am also interested in the application of machine  learning techniques in engineering.
+- Finite Element Analysis (FEA): My master's research involved the development, programming, and application of finite element methods, which share similarities with some data science methods, to solve engineering problems. Additionally, I have experience with simulation software such as Abaqus and ANSYS.
 
 #### Languages
 
