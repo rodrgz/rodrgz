@@ -1,37 +1,42 @@
-<p align="left"> 
-  :purple_heart: Welcome, welcome! <img src="https://komarev.com/ghpvc/?username=rodrgz&color=6C63FF&style=flat-square&label=Views" align="right" alt="Views"><br>
+# Erik Rodriguez
 
-#### Skills:
-- Mechanical Engineering: I have extensive experience in mechanical projects, from conception to implementation, with a focus on optimization and thermal, electrical, and structural analysis.
-- Programming: I utilize various programming languages on a daily basis.
-- Finite element: My master's research involves the development, programming and application of Finite Element Methods (which bears resemblance to some methods used in Data Science) to solve engineering problems. Additionally, I have experience with simulation software such as Abaqus and ANSYS.
-- Linux: As an enthusiastic Linux user, I possess knowledge in managing Linux systems in a reproducible manner, using Nix. This allows me to guarantee the same configuration across different machines, providing consistency and ease of deployment.
-- Data Science: In addition to engineering, I am also an enthusiast of data science, exploring how to apply data analysis techniques to improve engineering processes.
+Software engineer focused on backend systems, distributed architecture, and production reliability.
 
-#### Languages
+I currently work at Banco do Brasil on services around the credit limit platform and on modernization efforts that move business flows from the mainframe into cloud infrastructure. The work is integration-heavy and operationally strict: transactional behavior, sensitive data, heterogeneous data stores, production support, and systems that need to remain understandable under pressure.
 
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) 
-![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+Most of my day-to-day work sits in backend engineering: Java and Quarkus/Spring Batch services, REST and gRPC APIs, Kafka, JPA and JDBC, Oracle DB, DB2, PostgreSQL, Redis, Apache Hive, Kubernetes, OpenShift, observability, rollout safety, and incident response.
 
-#### Cloud & DevOps
+My route into software came through mechanical engineering and computational mechanics. That still shapes how I approach engineering work: model the system carefully, make assumptions explicit, pay attention to edge cases, and treat verification as part of the job rather than cleanup after the fact.
 
-![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/PROMETHEUS-E6522C.svg?&style=for-the-badge&logo=Prometheus&logoColor=white) 
-![Grafana](https://img.shields.io/badge/-GRAFANA-black?&style=for-the-badge&logo=grafana&logoColor=yellow)
-![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+## Engineering Focus
 
+- Backend systems for critical transactional workflows
+- Mainframe-to-cloud modernization of business capabilities
+- Service design for high-availability, integration-heavy domains
+- REST, gRPC, and event-driven integration patterns
+- Production observability, rollout safety, and incident support
+- Linux, Nix/NixOS, developer tooling, and scientific computing
 
-#### Unix
-  
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- ![NixOS](https://img.shields.io/badge/NixOS-5277C3.svg?&style=for-the-badge&logo=nixos&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## Stack
 
-#### Contact
+- Languages and frameworks: Java, Quarkus, Rust, Python, Julia, Fortran
+- APIs and integration: REST, gRPC, Kafka, JPA, Hibernate ORM, Panache, JDBC
+- Data: Oracle DB, DB2, PostgreSQL, Redis, Apache Hive
+- Platform and delivery: Docker, Kubernetes, OpenShift, Jenkins
+- Observability and testing: AppDynamics, Grafana, Prometheus, JUnit, REST Assured, Testcontainers
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/erik-rodrgz)
+## Selected Repositories
+
+- [`mate-wheel`](https://github.com/rodrgz/mate-wheel): a yerba-mate sensory analysis tool built around structured content and data visualization
+- [`2D3LayerCantileverBeam`](https://github.com/rodrgz/2D3LayerCantileverBeam): research code combining analytical derivation with XFEM numerical verification
+- [`histop`](https://github.com/rodrgz/histop): a small Rust CLI for making shell history easier to inspect
+
+## Research and Writing
+
+- Website: [rodrgz.github.io](https://rodrgz.github.io)
+- Publication: [Assessment of EqP in XFEM for weak discontinuities](https://doi.org/10.1007/s40430-023-04211-z)
+- Publication: [Revisiting the bi-dimensional elastic three-layer beam analytical solution](https://doi.org/10.1007/s40430-025-05779-4)
+
+## Contact
+
+- Email: [erik@rodgz.com](mailto:erik@rodgz.com)
