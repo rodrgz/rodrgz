@@ -1,5 +1,3 @@
-# Erik Rodriguez
-
 Software engineer focused on backend systems, distributed architecture, and production reliability.
 
 I currently work at Banco do Brasil on services around the credit limit platform and on modernization efforts that move business flows from the mainframe into cloud infrastructure.
