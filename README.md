@@ -27,4 +27,5 @@ I currently work at Banco do Brasil on services around the credit limit platform
 ### Contact
 
 - Website: [rodgz.com](https://rodgz.com)
+- Linkedin: [in/erik-rodrgz](https://www.linkedin.com/in/erik-rodrgz)
 - Email: [erik@rodgz.com](mailto:erik@rodgz.com)
